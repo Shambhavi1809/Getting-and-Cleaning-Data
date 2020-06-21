@@ -21,7 +21,7 @@ The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 va
 "tBodyAcc-mean()-Y"
 "tBodyAcc-mean()-Z"
 "tBodyAcc-std()-X"
-"tBodyAcc-std()-Y"
+"tBodyAcc-std()-Y" 
 "tBodyAcc-std()-Z"
 "tGravityAcc-mean()-X"
 "tGravityAcc-mean()-Y"
